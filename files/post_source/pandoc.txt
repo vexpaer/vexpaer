@@ -1,1 +1,1 @@
-pandoc -o 圆锥曲线技巧-从入门到入门.md 圆锥曲线技巧.docx --extract-media=圆锥曲线技巧-从入门到入门
+pandoc -o 用手机登录少年派：从生疏到娴熟.md 手机登号.docx --extract-media=用手机登录少年派：从生疏到娴熟

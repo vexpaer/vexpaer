@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-19T06:51:21.798Z</updated>
+  <updated>2021-10-02T09:37:37.371Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用手机登录少年派：从生疏到娴熟</title>
+    <link href="http://example.com/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/"/>
+    <id>http://example.com/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/</id>
+    <published>2021-10-02T09:32:56.000Z</published>
+    <updated>2021-10-02T09:37:37.371Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="用手机登录少年派：从生疏到娴熟"><a href="#用手机登录少年派：从生疏到娴熟" class="headerlink" title="用手机登录少年派：从生疏到娴熟"></a>用手机登录少年派：从生疏到娴熟</h1><h1 id="声明：本篇教程所有步骤只需要做一次，成功登上少年派之后就可以像学校pad一样用了，不需要每次都这么麻烦得调一遍"><a href="#声明：本篇教程所有步骤只需要做一次，成功登上少年派之后就可以像学校pad一样用了，不需要每次都这么麻烦得调一遍" class="headerlink" title="声明：本篇教程所有步骤只需要做一次，成功登上少年派之后就可以像学校pad一样用了，不需要每次都这么麻烦得调一遍"></a>声明：本篇教程所有步骤只需要做一次，成功登上少年派之后就可以像学校pad一样用了，不需要每次都这么麻烦得调一遍</h1><p>需要的软件如下↓</p><p><img src="/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/media/image1.png"></p><p>软件都放这里了↓（你可能要注册一个坚果云账号，因为这个比百度网盘快好几倍</p><p><a href="https://www.jianguoyun.com/p/DeYg1ywQyIOaCRjB8JAE">点我点我点我</a></p><p>打开VMOS Pro，首次打开选右边的就行，然后教程随便过掉</p><p>进行软件导入↓</p><p><img src="/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/media/image2.png"></p><p>选择刚刚安装的软件导入进去↓</p><p><img src="/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/media/image3.png"></p><p>然后退出虚拟机↓</p><p><img src="/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/media/image4.jpeg"></p><p>打开设置里的虚拟机信息↓</p><p><img src="/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/media/image5.png"></p><p>打开学校pad，设置→系统→关于平板电脑→状态信息→找到WLAN MAC 地址 和 序列号</p><p>再次回到手机上的虚拟机</p><p>照着学校pad修改虚拟机的WLAN MAC 地址 和 序列号（每个人的都不一样↓</p><p><img src="/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/media/image6.png"></p><p>再次打开手机上的虚拟机，进入软件MT管理器</p><p><img src="/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/media/image7.png"></p><p>在MT管理器中点左上角→根目录→system→往下滑找到build.prop打开↓</p><p><img src="/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/media/image8.png"></p><p>进去之后是这个界面↓</p><p><img src="/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/media/image9.png"></p><p>不要害怕，只用修改两个地方</p><p>1.把ro.build.id= 后面的地方改成</p><p>TB-X605M_S000018_20200930_NingBoRuiYi</p><p>2.把ro.build.display.id= 后面的地方改成</p><p>TB-X605M_RF01_20200930_NingBoRuiYi</p><p>(尽量复制粘贴要不然会出错</p><p><img src="/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/media/image10.png"></p><p>哒啦哒哒哒，初始化做完了O(∩_∩)O</p><p>再次打开学校pad，点进少年派的设置→基本信息→记下用户名（6位数字，我的是3736**</p><p>在手机的虚拟机上打开少年派，跳过网络设置，会进入一个能扫码的界面类似底下这个图</p><p><img src="/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/media/image11.jpeg"></p><p>然后输入你自己pad上的6位账号＋@qdez.lexuewang.cn:8003，九中的话可以相应的改</p><p>然后输入密码，如果前面没问题，就可以进去辣</p><p>以后需要导出如照片，笔记，写的小说等信息用手机上的少年派复制/截屏就行</p><p>不行的话多看几遍教学或者加Q2161884681</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;用手机登录少年派：从生疏到娴熟&quot;&gt;&lt;a href=&quot;#用手机登录少年派：从生疏到娴熟&quot; class=&quot;headerlink&quot; title=&quot;用手机登录少年派：从生疏到娴熟&quot;&gt;&lt;/a&gt;用手机登录少年派：从生疏到娴熟&lt;/h1&gt;&lt;h1 id=&quot;声明：本篇教程所有步骤只需</summary>
+      
+    
+    
+    
+    
+    <category term="整活" scheme="http://example.com/tags/%E6%95%B4%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>圆锥曲线技巧:从入门到入门</title>
