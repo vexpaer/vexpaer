@@ -1,1 +1,1 @@
-pandoc -o 用手机登录少年派：从生疏到娴熟.md 手机登号.docx --extract-media=用手机登录少年派：从生疏到娴熟
+pandoc -o 焦半径倾斜角式的速通用法.md 焦半径倾斜角式.docx --extract-media=焦半径倾斜角式的速通用法
