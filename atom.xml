@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-02T09:37:37.371Z</updated>
+  <updated>2021-10-23T14:49:35.321Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,61 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简易小技巧-定比点差</title>
+    <link href="http://example.com/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/"/>
+    <id>http://example.com/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/</id>
+    <published>2021-10-23T14:36:09.000Z</published>
+    <updated>2021-10-23T14:49:35.321Z</updated>
+    
+    <content type="html"><![CDATA[<p>定比点差法</p><h1 id="基础芝士"><a href="#基础芝士" class="headerlink" title="基础芝士"></a>基础芝士</h1><p><img src="/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/media/image1.png"></p><h1 id="原理-amp-适用情况"><a href="#原理-amp-适用情况" class="headerlink" title="原理&amp;适用情况"></a>原理&amp;适用情况</h1><p>原理，利用定点P到弦与椭圆两交点A,B距离的关系λ，用A,B坐标与λ通过定比分点表示出P点坐标，并通过平方差公式用λ表示A,B两点坐标</p><p>此方法λ是否为定值不重要，λ不变(即AP与PB成比例)，与，λ变(即AP与PB比例不定)，这两种情况都适用，λ主要用于表示坐标</p><p><img src="/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/media/image2.png"></p><p>适用情况嘎嘎广泛，弦过一定点时可使用，将弦与椭圆交点作为A,B，定点作为内/外分点</p><h1 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h1><p><img src="/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/media/image3.png"></p><h1 id="高级作战记录"><a href="#高级作战记录" class="headerlink" title="高级作战记录"></a>高级作战记录</h1><p>Data.1.两组定比分点表示一个点坐标找等量关系</p><p><img src="/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/media/image4.png"></p><p>Data.2.不能说和上题一模一样,只能说比上一题还弱</p><p><img src="/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/media/image5.png"></p><p>Data.3</p><p><img src="/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/media/image6.png"></p><p>Data.4.定比点差计算量天花板，额外添加的一问和上一题思路一样哦~</p><p><img src="/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/media/image7.png"></p><p>Data.5.展开一个平方差带进去两个定点坐标光速完事</p><p><img src="/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/media/image8.png"></p><p><img src="/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/media/image9.png"></p><p>Data.6.两组定比分点，一已知一待求，带入一个平方差展开的式子</p><p><img src="/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/media/image10.png"></p><p><img src="/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/media/image11.png"></p><p>先挂第一问的一种解法，还有第一问的二解(只用P一个定比分点然后两点式算A1B过的定点，但是有点麻烦)，和第二问(这个简单韦达定理能秒出来)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;定比点差法&lt;/p&gt;
+&lt;h1 id=&quot;基础芝士&quot;&gt;&lt;a href=&quot;#基础芝士&quot; class=&quot;headerlink&quot; title=&quot;基础芝士&quot;&gt;&lt;/a&gt;基础芝士&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F</summary>
+      
+    
+    
+    
+    
+    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="圆锥曲线" scheme="http://example.com/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简易小技巧-焦半径倾斜角式</title>
+    <link href="http://example.com/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/"/>
+    <id>http://example.com/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/</id>
+    <published>2021-10-16T14:07:28.000Z</published>
+    <updated>2021-10-23T14:51:01.002Z</updated>
+    
+    <content type="html"><![CDATA[<p>焦半径の倾斜角式</p><h1 id="前置知识-amp-推理"><a href="#前置知识-amp-推理" class="headerlink" title="前置知识&amp;推理"></a>前置知识&amp;推理</h1><p>关于焦准距p</p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image1.png"></p><p>关于焦半径&amp;焦点弦的倾斜角表示法</p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image2.png"></p><h1 id="例题"><a href="#例题" class="headerlink" title="例题"></a>例题</h1><p>以下所有题目都用焦半径的倾斜角式乱杀，但都不是唯一解法，主要是为了说明这个方法怎么用</p><p>T1</p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image3.png"></p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image4.png"></p><p>T2</p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image5.png"></p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image6.png"></p><p>T3</p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image7.png"></p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image8.png"></p><p>T4</p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image9.png"></p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image10.png"></p><p>T5</p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image11.png"></p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image12.png"></p><p>T6</p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image13.png"></p><p>这题，水题，如果你不会那只能说明一个问题，就是你不会</p><p>T7</p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image14.png"></p><p>T8</p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image15.png"></p><p>T9</p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image16.png"></p><p>T10</p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image17.png"></p><p>T11</p><p><img src="/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/media/image18.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;焦半径の倾斜角式&lt;/p&gt;
+&lt;h1 id=&quot;前置知识-amp-推理&quot;&gt;&lt;a href=&quot;#前置知识-amp-推理&quot; class=&quot;headerlink&quot; title=&quot;前置知识&amp;amp;推理&quot;&gt;&lt;/a&gt;前置知识&amp;amp;推理&lt;/h1&gt;&lt;p&gt;关于焦准距p&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+      
+    
+    
+    
+    
+    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="圆锥曲线" scheme="http://example.com/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
+    
+  </entry>
   
   <entry>
     <title>用手机登录少年派：从生疏到娴熟</title>

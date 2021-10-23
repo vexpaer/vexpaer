@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/files/post_source/[%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7]%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE.html</loc>
+    <loc>http://example.com/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/</loc>
+    
+    <lastmod>2021-10-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/</loc>
     
     <lastmod>2021-10-23</lastmod>
     
