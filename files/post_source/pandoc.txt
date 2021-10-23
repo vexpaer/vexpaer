@@ -1,1 +1,1 @@
-pandoc -o 焦半径倾斜角式的速通用法.md 焦半径倾斜角式.docx --extract-media=焦半径倾斜角式的速通用法
+pandoc -o [一个简单的小技巧]定比点差.md 定比点差法.docx --extract-media=[一个简单的小技巧]定比点差
