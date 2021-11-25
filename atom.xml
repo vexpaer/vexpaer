@@ -3,11 +3,11 @@
   <title>Vexpaer</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://vexpaer.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-11-08T14:48:31.250Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://vexpaer.github.io/"/>
+  <updated>2021-11-21T15:13:14.420Z</updated>
+  <id>https://vexpaer.github.io/</id>
   
   <author>
     <name>Vexpaer</name>
@@ -17,9 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>数列</title>
+    <link href="https://vexpaer.github.io/2021/11/13/%E6%95%B0%E5%88%97/"/>
+    <id>https://vexpaer.github.io/2021/11/13/%E6%95%B0%E5%88%97/</id>
+    <published>2021-11-13T01:11:43.000Z</published>
+    <updated>2021-11-21T15:13:14.420Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="等差数列"><a href="#等差数列" class="headerlink" title="等差数列"></a>等差数列</h1><p><img src="/2021/11/13/%E6%95%B0%E5%88%97/1.png"></p><h1 id="等比数列"><a href="#等比数列" class="headerlink" title="等比数列"></a>等比数列</h1><p><img src="/2021/11/13/%E6%95%B0%E5%88%97/2.png"></p><h1 id="等比差数列の化简"><a href="#等比差数列の化简" class="headerlink" title="等比差数列の化简"></a>等比差数列の化简</h1><p><img src="/2021/11/13/%E6%95%B0%E5%88%97/3.png"></p><p><strong>举一个🌰</strong></p><p><img src="/2021/11/13/%E6%95%B0%E5%88%97/4.png"></p><h1 id="其他形式数列→等比差数列"><a href="#其他形式数列→等比差数列" class="headerlink" title="其他形式数列→等比差数列"></a>其他形式数列→等比差数列</h1><p><img src="/2021/11/13/%E6%95%B0%E5%88%97/5.png"></p><p><img src="/2021/11/13/%E6%95%B0%E5%88%97/6.png"></p><h1 id="二阶线性递推式"><a href="#二阶线性递推式" class="headerlink" title="二阶线性递推式"></a>二阶线性递推式</h1><p><img src="/2021/11/13/%E6%95%B0%E5%88%97/7.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;等差数列&quot;&gt;&lt;a href=&quot;#等差数列&quot; class=&quot;headerlink&quot; title=&quot;等差数列&quot;&gt;&lt;/a&gt;等差数列&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/2021/11/13/%E6%95%B0%E5%88%97/1.png&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;等</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>英语大作文细节没的说</title>
-    <link href="http://example.com/2021/11/08/%E8%8B%B1%E8%AF%AD%E5%A4%A7%E4%BD%9C%E6%96%87%E7%BB%86%E8%8A%82%E6%B2%A1%E7%9A%84%E8%AF%B4/"/>
-    <id>http://example.com/2021/11/08/%E8%8B%B1%E8%AF%AD%E5%A4%A7%E4%BD%9C%E6%96%87%E7%BB%86%E8%8A%82%E6%B2%A1%E7%9A%84%E8%AF%B4/</id>
+    <link href="https://vexpaer.github.io/2021/11/08/%E8%8B%B1%E8%AF%AD%E5%A4%A7%E4%BD%9C%E6%96%87%E7%BB%86%E8%8A%82%E6%B2%A1%E7%9A%84%E8%AF%B4/"/>
+    <id>https://vexpaer.github.io/2021/11/08/%E8%8B%B1%E8%AF%AD%E5%A4%A7%E4%BD%9C%E6%96%87%E7%BB%86%E8%8A%82%E6%B2%A1%E7%9A%84%E8%AF%B4/</id>
     <published>2021-11-08T14:26:51.000Z</published>
     <updated>2021-11-08T14:48:31.250Z</updated>
     
@@ -38,8 +59,8 @@
   
   <entry>
     <title>古诗平民攻略，超低配+思路讲解</title>
-    <link href="http://example.com/2021/10/30/%E5%8F%A4%E8%AF%97%E5%B9%B3%E6%B0%91%E6%94%BB%E7%95%A5%EF%BC%8C%E8%B6%85%E4%BD%8E%E9%85%8D-%E6%80%9D%E8%B7%AF%E8%AE%B2%E8%A7%A3/"/>
-    <id>http://example.com/2021/10/30/%E5%8F%A4%E8%AF%97%E5%B9%B3%E6%B0%91%E6%94%BB%E7%95%A5%EF%BC%8C%E8%B6%85%E4%BD%8E%E9%85%8D-%E6%80%9D%E8%B7%AF%E8%AE%B2%E8%A7%A3/</id>
+    <link href="https://vexpaer.github.io/2021/10/30/%E5%8F%A4%E8%AF%97%E5%B9%B3%E6%B0%91%E6%94%BB%E7%95%A5%EF%BC%8C%E8%B6%85%E4%BD%8E%E9%85%8D-%E6%80%9D%E8%B7%AF%E8%AE%B2%E8%A7%A3/"/>
+    <id>https://vexpaer.github.io/2021/10/30/%E5%8F%A4%E8%AF%97%E5%B9%B3%E6%B0%91%E6%94%BB%E7%95%A5%EF%BC%8C%E8%B6%85%E4%BD%8E%E9%85%8D-%E6%80%9D%E8%B7%AF%E8%AE%B2%E8%A7%A3/</id>
     <published>2021-10-30T12:55:19.000Z</published>
     <updated>2021-11-06T02:59:36.546Z</updated>
     
@@ -54,49 +75,49 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://vexpaer.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="语文" scheme="http://example.com/tags/%E8%AF%AD%E6%96%87/"/>
+    <category term="语文" scheme="https://vexpaer.github.io/tags/%E8%AF%AD%E6%96%87/"/>
     
-    <category term="古诗" scheme="http://example.com/tags/%E5%8F%A4%E8%AF%97/"/>
+    <category term="古诗" scheme="https://vexpaer.github.io/tags/%E5%8F%A4%E8%AF%97/"/>
     
   </entry>
   
   <entry>
-    <title>完形填空没有提示</title>
-    <link href="http://example.com/2021/10/26/%E5%AE%8C%E5%BD%A2%E5%A1%AB%E7%A9%BA%E6%B2%A1%E6%9C%89%E6%8F%90%E7%A4%BA/"/>
-    <id>http://example.com/2021/10/26/%E5%AE%8C%E5%BD%A2%E5%A1%AB%E7%A9%BA%E6%B2%A1%E6%9C%89%E6%8F%90%E7%A4%BA/</id>
+    <title>语法填空没有提示</title>
+    <link href="https://vexpaer.github.io/2021/10/26/%E8%AF%AD%E6%B3%95%E5%A1%AB%E7%A9%BA%E6%B2%A1%E6%9C%89%E6%8F%90%E7%A4%BA/"/>
+    <id>https://vexpaer.github.io/2021/10/26/%E8%AF%AD%E6%B3%95%E5%A1%AB%E7%A9%BA%E6%B2%A1%E6%9C%89%E6%8F%90%E7%A4%BA/</id>
     <published>2021-10-26T15:12:10.000Z</published>
-    <updated>2021-11-06T02:53:39.614Z</updated>
+    <updated>2021-11-25T13:59:37.580Z</updated>
     
-    <content type="html"><![CDATA[<p>…..感谢老师讲的好东西</p><p><img src="/2021/10/26/%E5%AE%8C%E5%BD%A2%E5%A1%AB%E7%A9%BA%E6%B2%A1%E6%9C%89%E6%8F%90%E7%A4%BA/%E5%AE%8C%E5%9E%8B.jpg"></p>]]></content>
+    <content type="html"><![CDATA[<p>…..感谢老师讲的好东西</p><p><img src="/2021/10/26/%E8%AF%AD%E6%B3%95%E5%A1%AB%E7%A9%BA%E6%B2%A1%E6%9C%89%E6%8F%90%E7%A4%BA/%E5%AE%8C%E5%9E%8B.jpg"></p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;…..感谢老师讲的好东西&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/2021/10/26/%E5%AE%8C%E5%BD%A2%E5%A1%AB%E7%A9%BA%E6%B2%A1%E6%9C%89%E6%8F%90%E7%A4%BA/%E5%AE%8C%E5%9E%8B.jpg</summary>
+&lt;p&gt;&lt;img src=&quot;/2021/10/26/%E8%AF%AD%E6%B3%95%E5%A1%AB%E7%A9%BA%E6%B2%A1%E6%9C%89%E6%8F%90%E7%A4%BA/%E5%AE%8C%E5%9E%8B.jpg</summary>
       
     
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://vexpaer.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://vexpaer.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="英语" scheme="http://example.com/tags/%E8%8B%B1%E8%AF%AD/"/>
+    <category term="英语" scheme="https://vexpaer.github.io/tags/%E8%8B%B1%E8%AF%AD/"/>
     
   </entry>
   
   <entry>
     <title>英语作文句型_典藏版</title>
-    <link href="http://example.com/2021/10/24/%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87%E5%8F%A5%E5%9E%8B-%E5%85%B8%E8%97%8F%E7%89%88/"/>
-    <id>http://example.com/2021/10/24/%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87%E5%8F%A5%E5%9E%8B-%E5%85%B8%E8%97%8F%E7%89%88/</id>
+    <link href="https://vexpaer.github.io/2021/10/24/%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87%E5%8F%A5%E5%9E%8B-%E5%85%B8%E8%97%8F%E7%89%88/"/>
+    <id>https://vexpaer.github.io/2021/10/24/%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87%E5%8F%A5%E5%9E%8B-%E5%85%B8%E8%97%8F%E7%89%88/</id>
     <published>2021-10-24T14:51:01.000Z</published>
-    <updated>2021-11-06T02:53:43.010Z</updated>
+    <updated>2021-11-20T15:24:25.966Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="小作文-amp-大作文句型-典藏版"><a href="#小作文-amp-大作文句型-典藏版" class="headerlink" title="小作文&amp;大作文句型 典藏版"></a>小作文&amp;大作文句型 典藏版</h1><h1 id="大作文"><a href="#大作文" class="headerlink" title="大作文"></a>大作文</h1><h2 id="Hardly-when"><a href="#Hardly-when" class="headerlink" title="Hardly ~ when ~"></a>Hardly ~ when ~</h2><p>该句型的基本用法为：主语 + had hardly done ~ when + 主语 + did ~</p><p>使用时要注意<br>1、该句型所描述的动作一般都发生在过去<br>2、主句谓语动词采用过去完成时，when从句的谓语动词采用一般过去时<br>3、hardly可以替换为scarcely或rarely</p><p>Eg. She had hardly had time to sit and have a rest when the phone rang again.<br>她刚想坐下来休息一会儿，电话又响了</p><p><strong>需要注意的是，有的时候，否定副词hardly、scarcely或rarely可以提到句首，但这时会引起倒装</strong>  </p><p><strong>Hardly had sb done ~ when + 一般过去</strong><br><strong>某人刚做完某事, 就 ~</strong></p><p><strong>如上面的句子就可以改为</strong><br><strong>Eg. Hardly had she had time to sit and have a rest when the phone rang again.</strong></p><h2 id="It-was-wasn’t-before"><a href="#It-was-wasn’t-before" class="headerlink" title="It was/wasn’t ~ before ~"></a>It was/wasn’t ~ before ~</h2><p><strong>It was + 时间段 + before ~<br>过了多久才(怎么样)~</strong></p><p><strong>It was not + 时间段 + before ~<br>没过多长时间就~</strong></p><p><strong>It was not long before ~<br>不久，就~</strong></p><p>举一些栗子↓🌰</p><p>It was five days before he came back.<br>五天后他才回来</p><p>It was six day before we got to the beach.<br>六天后我们才到达海滩</p><h2 id="So-adj-adv-that-倒装"><a href="#So-adj-adv-that-倒装" class="headerlink" title="So + adj./adv. that ~ 倒装"></a>So + adj./adv. that ~ 倒装</h2><h3 id="基础用法见下图↓"><a href="#基础用法见下图↓" class="headerlink" title="基础用法见下图↓"></a>基础用法见下图↓</h3><p><img src="/2021/10/24/%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87%E5%8F%A5%E5%9E%8B-%E5%85%B8%E8%97%8F%E7%89%88/1.png"></p><h3 id="So-adj-adv-位于句首时的倒装"><a href="#So-adj-adv-位于句首时的倒装" class="headerlink" title="So + adj./adv. 位于句首时的倒装"></a>So + adj./adv. 位于句首时的倒装</h3><p><strong>副词so后接形容词或副词位于句首时，其后用部分倒装</strong>  </p><ol><li>So cold was the weather that we had to stay at home.<br>天气太冷，我们只好呆在家里</li><li>So fast does light travel that we can hardly imagine its speed.<br>光速很快，我们几乎没法想像它的速度</li><li>So sudden was the attack that we had no time to escape.<br>袭击来得非常突然，我们来不及逃跑</li></ol><h3 id="具体的两个公式"><a href="#具体的两个公式" class="headerlink" title="具体的两个公式"></a>具体的两个公式</h3><p><strong>So adj. was/were sb that + 一般过去<br>某人太 ~ 以至于<br>So adv. did sb do sth that + 一般过去<br>So quickly did he run that I couldn’t catch up with him.</strong></p><h2 id="as或though引导的让步状语从句倒装"><a href="#as或though引导的让步状语从句倒装" class="headerlink" title="as或though引导的让步状语从句倒装"></a>as或though引导的让步状语从句倒装</h2><p><strong>as或though引导的让步状语从句,可以倒装(although不行),通常把表语(名词或形容词,当名词前带有冠词时,倒装时要删去)，状语(副词)或者动词放在句首</strong></p><p><strong>提前到句首的词:形容词,名词,副词,动词</strong></p><p>1.Tired as he was , he still work hard.<br>2.Child as/though he was,he knew a lot of things.<br>3.Much as/though he liked the toy,he would not buy it.<br>4.Try as/though he might,he could not open the door.</p><h2 id="The-door-opened-and-in-came-our-teacher-with-who-doing"><a href="#The-door-opened-and-in-came-our-teacher-with-who-doing" class="headerlink" title="The door opened and in came our teacher , with/who/doing ~"></a>The door opened and in came our teacher , with/who/doing ~</h2><h2 id="It-was-the-first-time-that-sb-had-done"><a href="#It-was-the-first-time-that-sb-had-done" class="headerlink" title="It was the first time that ~ sb had done ~"></a>It was the first time that ~ sb had done ~</h2><p>某人第一次 ~ </p><h2 id="Seeing-the-frightening-scene-he-froze-there-not-knowing-what-to-do"><a href="#Seeing-the-frightening-scene-he-froze-there-not-knowing-what-to-do" class="headerlink" title="Seeing the frightening scene , he froze there , not knowing what to do."></a>Seeing the frightening scene , he froze there , not knowing what to do.</h2><p>Amazed at what he said , he froze there , not knowing what to say.  </p><h2 id="A-B-and-C"><a href="#A-B-and-C" class="headerlink" title="A , B and C"></a>A , B and C</h2><p>并列句</p><h2 id="It-dawned-on-sb-that"><a href="#It-dawned-on-sb-that" class="headerlink" title="It dawned on sb that ~"></a>It dawned on sb that ~</h2><p>某人突然意识到</p><p>用于升华</p><h2 id="Whenever-Whatever"><a href="#Whenever-Whatever" class="headerlink" title="Whenever/Whatever ~ , ~"></a>Whenever/Whatever ~ , ~</h2><p>不论如何, ~ </p><p>用于说道理, 升华作文</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="小作文-amp-大作文句型-典藏版"><a href="#小作文-amp-大作文句型-典藏版" class="headerlink" title="小作文&amp;大作文句型 典藏版"></a>小作文&amp;大作文句型 典藏版</h1><h1 id="大作文"><a href="#大作文" class="headerlink" title="大作文"></a>大作文</h1><h2 id="Hardly-when"><a href="#Hardly-when" class="headerlink" title="Hardly ~ when ~"></a>Hardly ~ when ~</h2><p>该句型的基本用法为：主语 + had hardly done ~ when + 主语 + did ~</p><p>使用时要注意<br>1、该句型所描述的动作一般都发生在过去<br>2、主句谓语动词采用过去完成时，when从句的谓语动词采用一般过去时<br>3、hardly可以替换为scarcely或rarely</p><p>Eg. She had hardly had time to sit and have a rest when the phone rang again.<br>她刚想坐下来休息一会儿，电话又响了</p><p><strong>需要注意的是，有的时候，否定副词hardly、scarcely或rarely可以提到句首，但这时会引起倒装</strong>  </p><p><strong>Hardly had sb done ~ when + 一般过去</strong><br><strong>某人刚做完某事, 就 ~</strong></p><p><strong>如上面的句子就可以改为</strong><br><strong>Eg. Hardly had she had time to sit and have a rest when the phone rang again.</strong></p><h2 id="It-was-wasn’t-before"><a href="#It-was-wasn’t-before" class="headerlink" title="It was/wasn’t ~ before ~"></a>It was/wasn’t ~ before ~</h2><p><strong>It was + 时间段 + before ~<br>过了多久才(怎么样)~</strong></p><p><strong>It was not + 时间段 + before ~<br>没过多长时间就~</strong></p><p><strong>It was not long before ~<br>不久，就~</strong></p><p>举一些栗子↓🌰</p><p>It was five days before he came back.<br>五天后他才回来</p><p>It was six day before we got to the beach.<br>六天后我们才到达海滩</p><h2 id="So-adj-adv-that-倒装"><a href="#So-adj-adv-that-倒装" class="headerlink" title="So + adj./adv. that ~ 倒装"></a>So + adj./adv. that ~ 倒装</h2><h3 id="基础用法见下图↓"><a href="#基础用法见下图↓" class="headerlink" title="基础用法见下图↓"></a>基础用法见下图↓</h3><p><img src="/2021/10/24/%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87%E5%8F%A5%E5%9E%8B-%E5%85%B8%E8%97%8F%E7%89%88/1.png"></p><h3 id="So-adj-adv-位于句首时的倒装"><a href="#So-adj-adv-位于句首时的倒装" class="headerlink" title="So + adj./adv. 位于句首时的倒装"></a>So + adj./adv. 位于句首时的倒装</h3><p><strong>副词so后接形容词或副词位于句首时，其后用部分倒装</strong>  </p><ol><li>So cold was the weather that we had to stay at home.<br>天气太冷，我们只好呆在家里</li><li>So fast does light travel that we can hardly imagine its speed.<br>光速很快，我们几乎没法想像它的速度</li><li>So sudden was the attack that we had no time to escape.<br>袭击来得非常突然，我们来不及逃跑</li></ol><h3 id="具体的两个公式"><a href="#具体的两个公式" class="headerlink" title="具体的两个公式"></a>具体的两个公式</h3><p><strong>So adj. was/were sb that + 一般过去<br>某人太 ~ 以至于<br>So adv. did sb do sth that + 一般过去<br>So quickly did he run that I couldn’t catch up with him.</strong></p><h2 id="as或though引导的让步状语从句倒装"><a href="#as或though引导的让步状语从句倒装" class="headerlink" title="as或though引导的让步状语从句倒装"></a>as或though引导的让步状语从句倒装</h2><p><strong>as或though引导的让步状语从句,可以倒装(although不行),通常把表语(名词或形容词,当名词前带有冠词时,倒装时要删去)，状语(副词)或者动词放在句首</strong></p><p><strong>提前到句首的词:形容词,名词,副词,动词</strong></p><p>1.Tired as he was , he still work hard.<br>2.Child as/though he was,he knew a lot of things.<br>3.Much as/though he liked the toy,he would not buy it.<br>4.Try as/though he might,he could not open the door.</p><h2 id="The-door-opened-and-in-came-our-teacher-with-who-doing"><a href="#The-door-opened-and-in-came-our-teacher-with-who-doing" class="headerlink" title="The door opened and in came our teacher , with/who/doing ~"></a>The door opened and in came our teacher , with/who/doing ~</h2><h2 id="It-was-the-first-time-that-sb-had-done"><a href="#It-was-the-first-time-that-sb-had-done" class="headerlink" title="It was the first time that ~ sb had done ~"></a>It was the first time that ~ sb had done ~</h2><p>某人第一次 ~ </p><h2 id="Seeing-the-frightening-scene-he-froze-there-not-knowing-what-to-do"><a href="#Seeing-the-frightening-scene-he-froze-there-not-knowing-what-to-do" class="headerlink" title="Seeing the frightening scene , he froze there , not knowing what to do."></a>Seeing the frightening scene , he froze there , not knowing what to do.</h2><p>分词做状语 + 主句 + 分词作状语</p><p>Amazed at what he said , he froze there , not knowing what to say.  </p><p>Starting from January 1st , the literature society recommended many good books , uncouraging us to get pleasure out of reading. </p><h2 id="A-B-and-C"><a href="#A-B-and-C" class="headerlink" title="A , B and C"></a>A , B and C</h2><p>并列句</p><h2 id="It-dawned-on-sb-that"><a href="#It-dawned-on-sb-that" class="headerlink" title="It dawned on sb that ~"></a>It dawned on sb that ~</h2><p>某人突然意识到</p><p>用于升华</p><h2 id="Whenever-Whatever"><a href="#Whenever-Whatever" class="headerlink" title="Whenever/Whatever ~ , ~"></a>Whenever/Whatever ~ , ~</h2><p>不论如何, ~ </p><p>用于说道理, 升华作文</p><h1 id="小作文"><a href="#小作文" class="headerlink" title="小作文"></a>小作文</h1><h2 id="As-scheduled-the-activity-will-be-held-at-8-00-o’clock-on-Sunday-morning-in-the-lecture-hall"><a href="#As-scheduled-the-activity-will-be-held-at-8-00-o’clock-on-Sunday-morning-in-the-lecture-hall" class="headerlink" title="As scheduled, the activity will be held at 8:00 o’clock on Sunday morning in the lecture hall."></a>As scheduled, the activity will be held at 8:00 o’clock on Sunday morning in the lecture hall.</h2><p>开头状语从句省略 As (the activity is) scheduled</p><p>用于写活动地点时间</p><h2 id="非限定性定语从句"><a href="#非限定性定语从句" class="headerlink" title="非限定性定语从句"></a>非限定性定语从句</h2><p>~ , which aims to do ~<br>~ , whose aims is to ~<br>~ , which is of benefit.<br>~ , with the theme of ~  </p><h2 id="现在分词做状语"><a href="#现在分词做状语" class="headerlink" title="现在分词做状语"></a>现在分词做状语</h2><p>~ ranging from ~ to ~</p><p>~ including A , B and C.</p><h2 id="Not-only-can-you-but-also"><a href="#Not-only-can-you-but-also" class="headerlink" title="Not only can you ~ but also ~"></a>Not only can you ~ but also ~</h2><p>部分倒装</p><h2 id="What-matters-most-is-that"><a href="#What-matters-most-is-that" class="headerlink" title="What matters most is that ~"></a>What matters most is that ~</h2><p>主从+表从</p><h2 id="There-is-no-denying-that"><a href="#There-is-no-denying-that" class="headerlink" title="There is no denying that ~"></a>There is no denying that ~</h2><h2 id="It’s-a-valuable-chance-for-sb-to-do-sth"><a href="#It’s-a-valuable-chance-for-sb-to-do-sth" class="headerlink" title="It’s a valuable chance for sb. to do sth."></a>It’s a valuable chance for sb. to do sth.</h2><p>It’s 做形式主语</p><h2 id="Some-while-others"><a href="#Some-while-others" class="headerlink" title="Some ~ while/others ~"></a>Some ~ while/others ~</h2><p>形成对比 </p><h2 id="Anyone-Everyone-who-can-is-do"><a href="#Anyone-Everyone-who-can-is-do" class="headerlink" title="Anyone/Everyone who ~ can/is/do ~"></a>Anyone/Everyone who ~ can/is/do ~</h2><p>定语从句</p><h2 id="Only-with-joint-efforts-can-we-solve-the-problem"><a href="#Only-with-joint-efforts-can-we-solve-the-problem" class="headerlink" title="Only with joint efforts can we solve the problem."></a>Only with joint efforts can we solve the problem.</h2><p>Only + 状语提前 用部分倒装</p>]]></content>
     
     
       
@@ -107,18 +128,18 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://vexpaer.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://vexpaer.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="英语" scheme="http://example.com/tags/%E8%8B%B1%E8%AF%AD/"/>
+    <category term="英语" scheme="https://vexpaer.github.io/tags/%E8%8B%B1%E8%AF%AD/"/>
     
   </entry>
   
   <entry>
     <title>简易小技巧-定比点差</title>
-    <link href="http://example.com/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/"/>
-    <id>http://example.com/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/</id>
+    <link href="https://vexpaer.github.io/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/"/>
+    <id>https://vexpaer.github.io/2021/10/23/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE/</id>
     <published>2021-10-23T14:36:09.000Z</published>
     <updated>2021-11-06T02:53:37.125Z</updated>
     
@@ -134,18 +155,18 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://vexpaer.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://vexpaer.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="圆锥曲线" scheme="http://example.com/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
+    <category term="圆锥曲线" scheme="https://vexpaer.github.io/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
     
   </entry>
   
   <entry>
     <title>简易小技巧-焦半径倾斜角式</title>
-    <link href="http://example.com/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/"/>
-    <id>http://example.com/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/</id>
+    <link href="https://vexpaer.github.io/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/"/>
+    <id>https://vexpaer.github.io/2021/10/16/%E7%AE%80%E6%98%93%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%84%A6%E5%8D%8A%E5%BE%84%E5%80%BE%E6%96%9C%E8%A7%92%E5%BC%8F/</id>
     <published>2021-10-16T14:07:28.000Z</published>
     <updated>2021-11-06T02:53:38.679Z</updated>
     
@@ -162,18 +183,18 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://vexpaer.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://vexpaer.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="圆锥曲线" scheme="http://example.com/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
+    <category term="圆锥曲线" scheme="https://vexpaer.github.io/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
     
   </entry>
   
   <entry>
     <title>用手机登录少年派：从生疏到娴熟</title>
-    <link href="http://example.com/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/"/>
-    <id>http://example.com/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/</id>
+    <link href="https://vexpaer.github.io/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/"/>
+    <id>https://vexpaer.github.io/2021/10/02/%E7%94%A8%E6%89%8B%E6%9C%BA%E7%99%BB%E5%BD%95%E5%B0%91%E5%B9%B4%E6%B4%BE%EF%BC%9A%E4%BB%8E%E7%94%9F%E7%96%8F%E5%88%B0%E5%A8%B4%E7%86%9F/</id>
     <published>2021-10-02T09:32:56.000Z</published>
     <updated>2021-11-06T02:52:28.972Z</updated>
     
@@ -188,14 +209,14 @@
     
     
     
-    <category term="整活" scheme="http://example.com/tags/%E6%95%B4%E6%B4%BB/"/>
+    <category term="整活" scheme="https://vexpaer.github.io/tags/%E6%95%B4%E6%B4%BB/"/>
     
   </entry>
   
   <entry>
     <title>圆锥曲线技巧:从入门到入门</title>
-    <link href="http://example.com/2021/09/19/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E6%8A%80%E5%B7%A7-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%85%A5%E9%97%A8/"/>
-    <id>http://example.com/2021/09/19/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E6%8A%80%E5%B7%A7-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%85%A5%E9%97%A8/</id>
+    <link href="https://vexpaer.github.io/2021/09/19/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E6%8A%80%E5%B7%A7-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%85%A5%E9%97%A8/"/>
+    <id>https://vexpaer.github.io/2021/09/19/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E6%8A%80%E5%B7%A7-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%85%A5%E9%97%A8/</id>
     <published>2021-09-19T06:48:56.000Z</published>
     <updated>2021-11-06T02:53:17.056Z</updated>
     
@@ -212,18 +233,18 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://vexpaer.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://vexpaer.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="圆锥曲线" scheme="http://example.com/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
+    <category term="圆锥曲线" scheme="https://vexpaer.github.io/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
     
   </entry>
   
   <entry>
     <title>抛物线入门</title>
-    <link href="http://example.com/2021/09/19/%E6%8A%9B%E7%89%A9%E7%BA%BF%E5%85%A5%E9%97%A8/"/>
-    <id>http://example.com/2021/09/19/%E6%8A%9B%E7%89%A9%E7%BA%BF%E5%85%A5%E9%97%A8/</id>
+    <link href="https://vexpaer.github.io/2021/09/19/%E6%8A%9B%E7%89%A9%E7%BA%BF%E5%85%A5%E9%97%A8/"/>
+    <id>https://vexpaer.github.io/2021/09/19/%E6%8A%9B%E7%89%A9%E7%BA%BF%E5%85%A5%E9%97%A8/</id>
     <published>2021-09-19T06:44:58.000Z</published>
     <updated>2021-11-06T02:51:11.405Z</updated>
     
@@ -239,18 +260,18 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://vexpaer.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://vexpaer.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="圆锥曲线" scheme="http://example.com/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
+    <category term="圆锥曲线" scheme="https://vexpaer.github.io/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
     
   </entry>
   
   <entry>
     <title>双曲线入门</title>
-    <link href="http://example.com/2021/09/19/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E5%85%A5%E9%97%A8/"/>
-    <id>http://example.com/2021/09/19/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E5%85%A5%E9%97%A8/</id>
+    <link href="https://vexpaer.github.io/2021/09/19/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E5%85%A5%E9%97%A8/"/>
+    <id>https://vexpaer.github.io/2021/09/19/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E5%85%A5%E9%97%A8/</id>
     <published>2021-09-19T06:29:47.000Z</published>
     <updated>2021-11-06T02:51:32.249Z</updated>
     
@@ -267,18 +288,18 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://vexpaer.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://vexpaer.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="圆锥曲线" scheme="http://example.com/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
+    <category term="圆锥曲线" scheme="https://vexpaer.github.io/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
     
   </entry>
   
   <entry>
     <title>椭圆入门</title>
-    <link href="http://example.com/2021/09/19/%E6%A4%AD%E5%9C%86%E5%85%A5%E9%97%A8/"/>
-    <id>http://example.com/2021/09/19/%E6%A4%AD%E5%9C%86%E5%85%A5%E9%97%A8/</id>
+    <link href="https://vexpaer.github.io/2021/09/19/%E6%A4%AD%E5%9C%86%E5%85%A5%E9%97%A8/"/>
+    <id>https://vexpaer.github.io/2021/09/19/%E6%A4%AD%E5%9C%86%E5%85%A5%E9%97%A8/</id>
     <published>2021-09-19T05:54:04.000Z</published>
     <updated>2021-11-06T02:51:26.728Z</updated>
     
@@ -295,18 +316,18 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://vexpaer.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://vexpaer.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="圆锥曲线" scheme="http://example.com/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
+    <category term="圆锥曲线" scheme="https://vexpaer.github.io/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
     
   </entry>
   
   <entry>
     <title>人类早期驯服议论文珍贵影像</title>
-    <link href="http://example.com/2021/06/19/%E4%BA%BA%E7%B1%BB%E6%97%A9%E6%9C%9F%E9%A9%AF%E6%9C%8D%E8%AE%AE%E8%AE%BA%E6%96%87%E7%8F%8D%E8%B4%B5%E5%BD%B1%E5%83%8F/"/>
-    <id>http://example.com/2021/06/19/%E4%BA%BA%E7%B1%BB%E6%97%A9%E6%9C%9F%E9%A9%AF%E6%9C%8D%E8%AE%AE%E8%AE%BA%E6%96%87%E7%8F%8D%E8%B4%B5%E5%BD%B1%E5%83%8F/</id>
+    <link href="https://vexpaer.github.io/2021/06/19/%E4%BA%BA%E7%B1%BB%E6%97%A9%E6%9C%9F%E9%A9%AF%E6%9C%8D%E8%AE%AE%E8%AE%BA%E6%96%87%E7%8F%8D%E8%B4%B5%E5%BD%B1%E5%83%8F/"/>
+    <id>https://vexpaer.github.io/2021/06/19/%E4%BA%BA%E7%B1%BB%E6%97%A9%E6%9C%9F%E9%A9%AF%E6%9C%8D%E8%AE%AE%E8%AE%BA%E6%96%87%E7%8F%8D%E8%B4%B5%E5%BD%B1%E5%83%8F/</id>
     <published>2021-06-19T14:58:37.000Z</published>
     <updated>2021-11-06T02:51:18.514Z</updated>
     
@@ -321,20 +342,20 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://vexpaer.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://vexpaer.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="语文" scheme="http://example.com/tags/%E8%AF%AD%E6%96%87/"/>
+    <category term="语文" scheme="https://vexpaer.github.io/tags/%E8%AF%AD%E6%96%87/"/>
     
-    <category term="议论文" scheme="http://example.com/tags/%E8%AE%AE%E8%AE%BA%E6%96%87/"/>
+    <category term="议论文" scheme="https://vexpaer.github.io/tags/%E8%AE%AE%E8%AE%BA%E6%96%87/"/>
     
   </entry>
   
   <entry>
     <title>背景图集</title>
-    <link href="http://example.com/2021/06/14/%E8%83%8C%E6%99%AF%E5%9B%BE%E9%9B%86/"/>
-    <id>http://example.com/2021/06/14/%E8%83%8C%E6%99%AF%E5%9B%BE%E9%9B%86/</id>
+    <link href="https://vexpaer.github.io/2021/06/14/%E8%83%8C%E6%99%AF%E5%9B%BE%E9%9B%86/"/>
+    <id>https://vexpaer.github.io/2021/06/14/%E8%83%8C%E6%99%AF%E5%9B%BE%E9%9B%86/</id>
     <published>2021-06-14T10:01:00.000Z</published>
     <updated>2021-11-06T02:52:18.056Z</updated>
     
@@ -349,14 +370,14 @@
     
     
     
-    <category term="picture" scheme="http://example.com/tags/picture/"/>
+    <category term="picture" scheme="https://vexpaer.github.io/tags/picture/"/>
     
   </entry>
   
   <entry>
     <title>议论文论据整理</title>
-    <link href="http://example.com/2021/06/12/%E8%AE%AE%E8%AE%BA%E6%96%87%E8%AE%BA%E6%8D%AE%E6%95%B4%E7%90%86/"/>
-    <id>http://example.com/2021/06/12/%E8%AE%AE%E8%AE%BA%E6%96%87%E8%AE%BA%E6%8D%AE%E6%95%B4%E7%90%86/</id>
+    <link href="https://vexpaer.github.io/2021/06/12/%E8%AE%AE%E8%AE%BA%E6%96%87%E8%AE%BA%E6%8D%AE%E6%95%B4%E7%90%86/"/>
+    <id>https://vexpaer.github.io/2021/06/12/%E8%AE%AE%E8%AE%BA%E6%96%87%E8%AE%BA%E6%8D%AE%E6%95%B4%E7%90%86/</id>
     <published>2021-06-12T11:14:18.000Z</published>
     <updated>2021-11-06T02:53:40.499Z</updated>
     
@@ -371,20 +392,20 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://vexpaer.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://vexpaer.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="语文" scheme="http://example.com/tags/%E8%AF%AD%E6%96%87/"/>
+    <category term="语文" scheme="https://vexpaer.github.io/tags/%E8%AF%AD%E6%96%87/"/>
     
-    <category term="议论文" scheme="http://example.com/tags/%E8%AE%AE%E8%AE%BA%E6%96%87/"/>
+    <category term="议论文" scheme="https://vexpaer.github.io/tags/%E8%AE%AE%E8%AE%BA%E6%96%87/"/>
     
   </entry>
   
   <entry>
     <title>有机化学</title>
-    <link href="http://example.com/2021/06/06/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/"/>
-    <id>http://example.com/2021/06/06/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/</id>
+    <link href="https://vexpaer.github.io/2021/06/06/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/"/>
+    <id>https://vexpaer.github.io/2021/06/06/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6/</id>
     <published>2021-06-06T03:24:34.000Z</published>
     <updated>2021-11-06T02:51:46.245Z</updated>
     
@@ -399,18 +420,18 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://vexpaer.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://vexpaer.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="化学" scheme="http://example.com/tags/%E5%8C%96%E5%AD%A6/"/>
+    <category term="化学" scheme="https://vexpaer.github.io/tags/%E5%8C%96%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>圆锥曲线の资料</title>
-    <link href="http://example.com/2021/06/05/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E3%81%AE%E8%B5%84%E6%96%99/"/>
-    <id>http://example.com/2021/06/05/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E3%81%AE%E8%B5%84%E6%96%99/</id>
+    <link href="https://vexpaer.github.io/2021/06/05/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E3%81%AE%E8%B5%84%E6%96%99/"/>
+    <id>https://vexpaer.github.io/2021/06/05/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E3%81%AE%E8%B5%84%E6%96%99/</id>
     <published>2021-06-05T02:50:09.000Z</published>
     <updated>2021-11-06T02:52:41.676Z</updated>
     
@@ -425,18 +446,18 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://vexpaer.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="圆锥曲线" scheme="http://example.com/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
+    <category term="圆锥曲线" scheme="https://vexpaer.github.io/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
     
-    <category term="资料" scheme="http://example.com/tags/%E8%B5%84%E6%96%99/"/>
+    <category term="资料" scheme="https://vexpaer.github.io/tags/%E8%B5%84%E6%96%99/"/>
     
   </entry>
   
   <entry>
     <title>pad**教程</title>
-    <link href="http://example.com/2021/05/29/pad-%E6%95%99%E7%A8%8B/"/>
-    <id>http://example.com/2021/05/29/pad-%E6%95%99%E7%A8%8B/</id>
+    <link href="https://vexpaer.github.io/2021/05/29/pad-%E6%95%99%E7%A8%8B/"/>
+    <id>https://vexpaer.github.io/2021/05/29/pad-%E6%95%99%E7%A8%8B/</id>
     <published>2021-05-29T05:06:22.000Z</published>
     <updated>2021-11-06T02:48:01.355Z</updated>
     
@@ -456,14 +477,14 @@
     
     
     
-    <category term="整活" scheme="http://example.com/tags/%E6%95%B4%E6%B4%BB/"/>
+    <category term="整活" scheme="https://vexpaer.github.io/tags/%E6%95%B4%E6%B4%BB/"/>
     
   </entry>
   
   <entry>
     <title>初中の英语笔记</title>
-    <link href="http://example.com/2021/05/22/%E5%88%9D%E4%B8%AD%E3%81%AE%E8%8B%B1%E8%AF%AD%E7%AC%94%E8%AE%B0/"/>
-    <id>http://example.com/2021/05/22/%E5%88%9D%E4%B8%AD%E3%81%AE%E8%8B%B1%E8%AF%AD%E7%AC%94%E8%AE%B0/</id>
+    <link href="https://vexpaer.github.io/2021/05/22/%E5%88%9D%E4%B8%AD%E3%81%AE%E8%8B%B1%E8%AF%AD%E7%AC%94%E8%AE%B0/"/>
+    <id>https://vexpaer.github.io/2021/05/22/%E5%88%9D%E4%B8%AD%E3%81%AE%E8%8B%B1%E8%AF%AD%E7%AC%94%E8%AE%B0/</id>
     <published>2021-05-22T03:51:24.000Z</published>
     <updated>2021-11-06T02:51:01.161Z</updated>
     
@@ -480,11 +501,11 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://vexpaer.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://vexpaer.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="英语" scheme="http://example.com/tags/%E8%8B%B1%E8%AF%AD/"/>
+    <category term="英语" scheme="https://vexpaer.github.io/tags/%E8%8B%B1%E8%AF%AD/"/>
     
   </entry>
   
