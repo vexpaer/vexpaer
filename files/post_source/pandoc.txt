@@ -1,1 +1,1 @@
-pandoc -o [一个简单的小技巧]定比点差.md 定比点差法.docx --extract-media=[一个简单的小技巧]定比点差
+pandoc -o 导数.md 导数.docx --extract-media=导数
